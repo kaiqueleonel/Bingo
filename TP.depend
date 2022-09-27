@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657236864 source:d:\documentos\c++\lista de vetor e função\tp\tp\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
